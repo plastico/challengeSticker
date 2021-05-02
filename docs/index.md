@@ -1,39 +1,21 @@
-## Welcome to GitHub Pages
+コロナによるスカウト集会の削減でタスキを披露する機会が減っており、
 
-You can use the [editor on GitHub](https://github.com/plastico/challengeSticker/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+スカウト以外にもチャレンジ章を知ってもらうのはスカウティング全体にメリットがあるのでは？と思い、
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+チャレンジ章シールとシール台紙の制作に取り組んでいます。
 
-### Markdown
+<img height="250" src="https://plastico.github.io/challenge-badge/mock.png" />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[ラベル屋さんデータ](./challenge-badge/cubChallenge.aly).
 
-```markdown
-Syntax highlighted code block
+[台紙 PDF](./challenge-badge/stampSheet.pdf).
 
-# Header 2
+> 個人利用限定でお願いします。　効果測定を行うためアンケートに回答いただけると嬉しいです。
 
-## Header 2
+> シールはエーワン「A4 70 面 四辺余白付 角丸」の利用を想定しています。
 
-### Header 3
+> 台紙は B5 サイズの印刷を想定しています。（小学生のノートと同サイズ）
 
-- Bulleted
-- List
+> またシール台紙は B5 のクリアホルダーに入れるとしっかりするのでおすすめです。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/plastico/challengeSticker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+自分でシール・台紙を作るのは面倒、という方は有償提供も検討してますのでご連絡ください。
