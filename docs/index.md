@@ -4,7 +4,7 @@
 
 チャレンジ章シールとシール台紙の制作に取り組んでいます。
 
-<img height="250" src="https://plastico.github.io/challenge-badge/mock.png" />
+<img height="250" src="https://plastico.github.io/challengeSticker/challenge-badge/mock.png" />
 
 [ラベル屋さんデータ](./challenge-badge/cubChallenge.aly).
 
